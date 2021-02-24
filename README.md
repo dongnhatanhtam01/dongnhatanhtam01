@@ -10,4 +10,5 @@
 </a>
 
 :smile: Demo nhẹ  
-Cùng chơi đùa nào: https://dongnhatanhtam01.github.io/react-redux-Burger/
+Cùng chơi đùa nào: https://dongnhatanhtam01.github.io/react-redux-Burger/  
+Thêm xóa sửa thông tin sinh viên: https://dongnhatanhtam01.github.io/reduxFormValidate/  
