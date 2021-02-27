@@ -9,4 +9,5 @@
 :smile: Demo nhẹ  
 Cùng chơi đùa nào: https://dongnhatanhtam01.github.io/react-redux-Burger/  
 Thêm xóa sửa thông tin sinh viên: https://dongnhatanhtam01.github.io/reduxFormValidate/    
-ReactHook basic hook useState: https://csb-v0ci2.netlify.app/
+ReactHook basic hook useState: https://csb-v0ci2.netlify.app/  
+ReactHook hook useReducer: https://codesandbox.io/s/5userreducerlogin-z0bl7  
