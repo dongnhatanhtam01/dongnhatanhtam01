@@ -8,4 +8,5 @@
 
 :smile: Demo nhẹ  
 Cùng chơi đùa nào: https://dongnhatanhtam01.github.io/react-redux-Burger/  
-Thêm xóa sửa thông tin sinh viên: https://dongnhatanhtam01.github.io/reduxFormValidate/  
+Thêm xóa sửa thông tin sinh viên: https://dongnhatanhtam01.github.io/reduxFormValidate/    
+ReactHook basic hook useState: https://codesandbox.io/s/ontapusestate-v0ci2?file=/src/App.js  
