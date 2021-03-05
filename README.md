@@ -3,15 +3,25 @@
 
 <details>
 <summary>Từ Bỏ 💦  
-(Tường Vân)</summary>
+(Tường Vân)  
+  
+  Từ bỏ thói quen hay giận hờn  
+Nói lời trách móc phân thua hơn  
+Chiến tranh miệng lưỡi rất nguy hiểm  
+Phải biết thuận hòa sống chánh chơn.  
+  
+Từ bỏ thói quen hay thở than  
+Chuyện gì không đáng cũng than van  
+Làm cho mệt mỏi người nghe thấy  
+Chấp nhận là xong mọi việc an.  
+</summary>
 <p>
 
   
 
 Từ bỏ thói quen hay vội vàng  
 Nói làm hấp tấp thiếu đoan trang
-
-  Thiếu suy xét kỹ không từ tốn  
+Thiếu suy xét kỹ không từ tốn  
 Hối hận ăn năn cũng muộn màng.  
 
 Từ bỏ thói quen hay đắm say  
