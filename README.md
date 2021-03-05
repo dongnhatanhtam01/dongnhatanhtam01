@@ -1,12 +1,17 @@
 # ĐỒNG NHẬT ANH TÂM  
 [![GitHub Badge](https://img.shields.io/github/followers/dongnhatanhtam01?style=social)](https://github.com/dongnhatanhtam01?tab=followers)  
 
-Từ Bỏ 💦  
-(Tường Vân)  
+<details>
+<summary>Từ Bỏ 💦  
+(Tường Vân)</summary>
+<p>
+
+  
 
 Từ bỏ thói quen hay vội vàng  
-<details><summary>Nói làm hấp tấp thiếu đoan trang  <summary>
-<p>Thiếu suy xét kỹ không từ tốn  
+Nói làm hấp tấp thiếu đoan trang
+
+  Thiếu suy xét kỹ không từ tốn  
 Hối hận ăn năn cũng muộn màng.  
 
 Từ bỏ thói quen hay đắm say  
@@ -37,9 +42,10 @@ Khiêm hạ hòa đồng sống với nhau.
 Từ bỏ thói quen hay tự ti  
 Buồn phiền mặc cảm thêm sầu bi  
 Tự tin làm lại những điều tốt  
-Đừng mãi đeo mang một thứ gì.  </p>  
-</details>
+Đừng mãi đeo mang một thứ gì.  
 
+</p>
+</details>  
 
 <a href="https://github.com/dongnhatanhtam01/dongnhatanhtam01">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dongnhatanhtam01&show_icons=true" />
