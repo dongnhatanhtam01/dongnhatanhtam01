@@ -1,4 +1,5 @@
 # ĐỒNG NHẬT ANH TÂM  
+BA, PM, React Dev
 [![GitHub Badge](https://img.shields.io/github/followers/dongnhatanhtam01?style=social)](https://github.com/dongnhatanhtam01?tab=followers)  
 
 <details>
