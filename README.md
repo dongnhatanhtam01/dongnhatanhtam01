@@ -59,9 +59,7 @@ Tự tin làm lại những điều tốt
 </p>
 </details>  
 
-<a href="https://github.com/dongnhatanhtam01/dongnhatanhtam01">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dongnhatanhtam01&show_icons=true" />
-</a>
+![Noah's github stats](https://github-readme-stats.vercel.app/api?username=dongnhatanhtam01&show_icons=true&theme=gruvbox)
 
 :smile: Demo nhẹ  
 Cùng chơi đùa nào: https://dongnhatanhtam01.github.io/react-redux-Burger/  
