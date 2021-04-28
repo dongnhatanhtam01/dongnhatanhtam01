@@ -1,8 +1,9 @@
 # ĐỒNG NHẬT ANH TÂM  
 _BA, UIUX, PM, Reactjs Dev_   
 
-[![GitHub Badge](https://img.shields.io/github/followers/dongnhatanhtam01?style=social)](https://github.com/dongnhatanhtam01?tab=followers)  
-
+[![GitHub Badge](https://img.shields.io/github/followers/dongnhatanhtam01?style=social)](https://github.com/dongnhatanhtam01?tab=followers)
+[![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg?style=flat)]()
+[![Twitter Follow](https://img.shields.io/twitter/follow/tamdna_DNAT.svg?style=social)](https://twitter.com/tamdna_DNAT)   
 <details>
 <summary>Từ Bỏ 💦  
 (Tường Vân)  
