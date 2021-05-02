@@ -2,10 +2,8 @@
 _BA, UIUX, PM, Reactjs Dev_   
 
 [![GitHub Badge](https://img.shields.io/github/followers/dongnhatanhtam01?style=social)](https://github.com/dongnhatanhtam01?tab=followers)
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/tamdna_DNAT.svg?style=social)](https://twitter.com/tamdna_DNAT)    
+[![Twitter Follow](https://img.shields.io/twitter/follow/tamdna_DNAT.svg?style=social)](https://twitter.com/tamdna_DNAT)      
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  
 <details>
 <summary>Từ Bỏ 💦  
