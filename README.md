@@ -76,3 +76,6 @@ Từ bỏ thói quen hay giận hờn
 Nói lời trách móc phân thua hơn  
 Chiến tranh miệng lưỡi rất nguy hiểm  
 Phải biết thuận hòa sống chánh chơn.  
+## Node.js el workflow  
+![image](https://user-images.githubusercontent.com/67026642/124509206-b5b50000-ddfb-11eb-8b88-57b5f92e10ab.png)
+
