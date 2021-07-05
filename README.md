@@ -70,4 +70,4 @@ ReactHook basic hook useState: https://csb-v0ci2.netlify.app/
 ReactHook hook useReducer: https://codesandbox.io/s/5userreducerlogin-z0bl7  
 
 # Đi qua vùng cỏ non  
-dnat.ga blog tập tành - tha cho em nó
+dnat.ga blog tập tành - đăng nhập (original sign in) - đăng ký (don't spam please) - create - view blog - follow user - chat - search
