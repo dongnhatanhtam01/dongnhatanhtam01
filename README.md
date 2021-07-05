@@ -22,7 +22,7 @@ Từ bỏ thói quen hay thở than
   
 
 Từ bỏ thói quen hay vội vàng  
-Nói làm hấp tấp thiếu đoan trang
+Nói làm hấp tấp thiếu đoan trang  
 Thiếu suy xét kỹ không từ tốn  
 Hối hận ăn năn cũng muộn màng.  
 
