@@ -71,7 +71,7 @@ ReactHook hook useReducer: https://codesandbox.io/s/5userreducerlogin-z0bl7
 
 # FRONTEND - Đi qua vùng cỏ non - covid 07.2021
 dnat.ga blog tập tành - đăng nhập (original sign in) - đăng ký (don't spam please) - create - view blog - follow user - chat - search  
-__tồn tại thói quen xấu__ 
+__tồn tại thói quen xấu__  
 Từ bỏ thói quen hay giận hờn  
 Nói lời trách móc phân thua hơn  
 Chiến tranh miệng lưỡi rất nguy hiểm  
