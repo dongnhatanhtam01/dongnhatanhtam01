@@ -67,15 +67,8 @@ Thêm xóa sửa thông tin sinh viên: https://dongnhatanhtam01.github.io/redux
 ReactHook basic hook useState: https://csb-v0ci2.netlify.app/  
 ReactHook hook useReducer: https://codesandbox.io/s/5userreducerlogin-z0bl7  
 
-# FRONTEND - Đi qua vùng cỏ non - covid 07.2021
+# FRONTEND - covid19 07.2021
 __objective__ dnat.ga blog tập tành - đăng nhập (original sign in) - đăng ký (don't spam please) - create - view blog - follow user - chat - search  
 __language__ js based  
 __move on__ use original js language duplicating above  
-__Còn tồn tại thói quen xấu__  
-Từ bỏ thói quen hay giận hờn  
-Nói lời trách móc phân thua hơn  
-Chiến tranh miệng lưỡi rất nguy hiểm  
-Phải biết thuận hòa sống chánh chơn.  
-## Node.js el workflow  
-![image](https://user-images.githubusercontent.com/67026642/124509206-b5b50000-ddfb-11eb-8b88-57b5f92e10ab.png)
 
