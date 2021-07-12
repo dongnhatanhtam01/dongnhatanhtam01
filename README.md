@@ -74,3 +74,4 @@ __project demo__ https://60e3ed7514656a0008df100c--peaceful-boyd-6fee92.netlify.
 __language__ js based  
 __move on__ use original js language duplicating above  
 
+# EDITORJS WITH ACE - covid19 07.2021 - learning
