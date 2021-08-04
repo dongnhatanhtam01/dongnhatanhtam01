@@ -1,4 +1,4 @@
-# ĐỒNG NHẬT ANH TÂM  
+# ĐỒNG NHẬT ANH TÂM  (TỰ / YOURSELF)
 _BA, UIUX, PM, Reactjs Dev_   
 
 [![GitHub Badge](https://img.shields.io/github/followers/dongnhatanhtam01?style=social)](https://github.com/dongnhatanhtam01?tab=followers)
