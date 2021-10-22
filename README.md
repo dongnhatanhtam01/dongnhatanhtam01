@@ -62,10 +62,7 @@ Tự tin làm lại những điều tốt
 
 :smile: Demo nhẹ  
 Music-player: https://itvec.csb.app/
-Cùng chơi đùa nào: https://dongnhatanhtam01.github.io/react-redux-Burger/  
-Thêm xóa sửa thông tin sinh viên: https://dongnhatanhtam01.github.io/reduxFormValidate/    
-ReactHook basic hook useState: https://csb-v0ci2.netlify.app/  
-ReactHook hook useReducer: https://codesandbox.io/s/5userreducerlogin-z0bl7  
+
 
 # project frontend (covid19 07.2021)
 __objective__ blog tập tành - đăng nhập (original sign in) - đăng ký (don't spam please) - create - view blog - follow user - chat - search  
