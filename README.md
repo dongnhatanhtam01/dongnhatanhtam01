@@ -72,4 +72,7 @@ __language__ js based
 __move on__ use original js language duplicating above  
 
 # editor clone & code again (covid19 07.2021)
-https://github.com/dongnhatanhtam01/EditorJS  
+https://github.com/dongnhatanhtam01/EditorJS    
+  
+# react  
+https://dongnhatanhtam01.github.io/monster-rolodex/
