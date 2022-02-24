@@ -62,6 +62,7 @@ Tự tin làm lại những điều tốt
 
 :smile: Demo nhẹ  
 Music-player: https://itvec.csb.app/
+API: *tamdna.azurewebsites.net/api/movies/AllMovies  
 
 
 # project frontend (covid19 07.2021)
