@@ -1,5 +1,5 @@
 # ĐỒNG NHẬT ANH TÂM  (TỰ / YOURSELF)
-_BA, UIUX, PM, Reactjs Dev_   
+_unknown role_   
 
 [![GitHub Badge](https://img.shields.io/github/followers/dongnhatanhtam01?style=social)](https://github.com/dongnhatanhtam01?tab=followers)
 [![Twitter Follow](https://img.shields.io/twitter/follow/tamdna_DNAT.svg?style=social)](https://twitter.com/tamdna_DNAT)      
