@@ -5,9 +5,8 @@ _unknown role_
 [![Twitter Follow](https://img.shields.io/twitter/follow/tamdna_DNAT.svg?style=social)](https://twitter.com/tamdna_DNAT)      
 
 Music-player: https://itvec.csb.app/  
-API: *tamdna.azurewebsites.net/api/movies/AllMovies  
-
-__project demo__ https://60e3ed7514656a0008df100c--peaceful-boyd-6fee92.netlify.app/  
+API: tamdna.azurewebsites.net/api/movies/AllMovies  
+Sign in / Sign out / blog: https://60e3ed7514656a0008df100c--peaceful-boyd-6fee92.netlify.app/  
 
 https://github.com/dongnhatanhtam01/EditorJS    
 https://dongnhatanhtam01.github.io/monster-rolodex/
