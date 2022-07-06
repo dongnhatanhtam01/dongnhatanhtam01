@@ -59,21 +59,3 @@ Tự tin làm lại những điều tốt
 </details>  
 
 ![Noah's github stats](https://github-readme-stats.vercel.app/api?username=dongnhatanhtam01&show_icons=true&theme=Gradient)
-
-:smile: Demo nhẹ  
-Music-player: https://itvec.csb.app/  
-API: *tamdna.azurewebsites.net/api/movies/AllMovies  
-
-
-# project frontend (covid19 07.2021)
-__objective__ blog tập tành - đăng nhập (original sign in) - đăng ký (don't spam please) - create - view blog - follow user - chat - search  
-__website__ dnat.ga  
-__project demo__ https://60e3ed7514656a0008df100c--peaceful-boyd-6fee92.netlify.app/  
-__language__ js based  
-__move on__ use original js language duplicating above  
-
-# editor clone & code again (covid19 07.2021)
-https://github.com/dongnhatanhtam01/EditorJS    
-  
-# react  
-https://dongnhatanhtam01.github.io/monster-rolodex/
