@@ -1,4 +1,4 @@
-# ĐỒNG NHẬT ANH TÂM  (TỰ / YOURSELF)
+# ĐỒNG NHẬT ANH TÂM  (TỰ / HIỆN PHÁP LẠC TRÚ EGO STATE)
 _unknown role_   
 
 [![GitHub Badge](https://img.shields.io/github/followers/dongnhatanhtam01?style=social)](https://github.com/dongnhatanhtam01?tab=followers)
